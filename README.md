@@ -31,5 +31,7 @@
       自定义点击事件
       条目动画等等
 ### CardView
-#### Android 5.0 版本新增了CardView
-    [CardView详解](https://www.jianshu.com/p/63751afe368b)
+#### Android 5.0 版本新增了[CardView](https://www.jianshu.com/p/63751afe368b)
+### 3种 Notification
+#### Android实现3种[Notification](https://www.jianshu.com/p/a84ddaf530ec)(状态栏通知)
+    
